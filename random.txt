@@ -1,0 +1,1 @@
+Adding a new text file to my repository to that the Jenkins' build is triggered
